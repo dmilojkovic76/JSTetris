@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Dusan Milojkovic -- dev -- <twitter>
+
+# THANKS
+
+    <Meth Meth Method>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, Java Script
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
